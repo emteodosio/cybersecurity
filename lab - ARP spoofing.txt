@@ -1,0 +1,7 @@
+ubuntu - 10.0.2.15
+interface: enp0s3
+
+kali - 10.0.2.4
+interface: eth0
+
+default gateway 10.0.2.1 #using command 'ip r'
